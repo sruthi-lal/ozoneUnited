@@ -27,7 +27,7 @@
   
 }
 .header-img {
-    background-image: url(/assets/images/ground.jpg);
+    /* background-image: url('/assets/images/ground.jpg'); */
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
