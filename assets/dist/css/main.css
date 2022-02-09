@@ -74,8 +74,8 @@
     text-align: right;
     font-weight: 100;
 }
-.details{
-    padding: 256px 19px 0;
+.details {
+    padding: 180px 19px 0;
 }
 .details ul {
      list-style: none;
@@ -133,4 +133,103 @@
 }
 .text-box-left {
     margin-left: 44px !important;
+}
+.w-text{
+    padding: 0px 0 20px;
+ 
+}
+.ozon-text{
+    background-color:  rgb(0 0 0)
+}
+.w-text h1{
+    font-weight: 100;
+    font-size: 63px;
+    color: #fff;
+    text-align: right;
+}
+.w-text h1 span{
+    color: #d40020;
+}
+.text-points {
+    padding-right: 51px;
+    color: #fff;
+}
+.text-points h4{
+    font-weight: 100;
+}
+.text-points p {
+    text-align: right;
+    padding-top: 10px;
+    font-weight: 100;
+}
+.ozone-br {
+    padding: 54px 0 54px;
+    border-top: 1px solid #ffffff38;
+    border-bottom: 1px solid #ffffff38;
+}
+.about h2{
+    padding: 101px 19px !important;
+}
+.bg-ozon {
+    background-color: #000000;
+}
+
+.display-4 {
+    border-radius: 50%;
+    font-size: 51px;
+    color: #d40020;
+}
+.bg-ozon h5 {
+    font-size: 17px;
+    font-weight: 400;
+    padding-top: 8px;
+}
+.project{
+    padding: 34px 0;
+    background-color: #da0021;
+}
+.s-heading h4{
+    color: rgb(255, 255, 255);
+   
+    line-height: 70px;
+    font-weight: 100;
+    font-size: 58px;
+}
+.project-im{
+  width: 100%;
+}
+.pd-0{
+    padding: 0;
+}
+.article {
+    padding: 45px 0;
+    background-color: #000000;
+    color: #fff;
+    font-weight: 100;
+}
+
+.web-img {
+    width: 55%;
+    margin-top: 7px;
+}
+ 
+.article h4 {
+    min-height: 124px;
+    font-size: 31px;
+    font-weight: 100;
+}
+.article h6 a {
+  color:  #740018;
+  text-decoration: none;
+}
+.footer-content {
+    padding: 56px 0;
+    background-color: #1a1a1a;
+    color: #fff;
+}
+.footer-content p {
+    font-weight: 100;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-align: center;
 }
